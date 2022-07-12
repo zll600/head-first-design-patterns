@@ -1,9 +1,6 @@
 package headfirst.strategy;
 
 
-/**
- * Created by Gavin on 2017/2/10.
- */
 public class MallardDuck extends Duck {
 
     public MallardDuck() {
