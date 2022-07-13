@@ -9,3 +9,8 @@
 - 封装变化
 - 多用组合，少用继承
 - 针对接口编程
+
+### Reference
+
+- 《Head First 设计模式》
+- https://github.com/gavin66/head-first-design-patterns-Java
