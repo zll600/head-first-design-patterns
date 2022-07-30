@@ -3,6 +3,13 @@ package headfirst.singleton.chocolate;
 import java.util.EmptyStackException;
 import java.util.jar.JarEntry;
 
+/*
+ * 采用延迟初始化的方式生成单例，即 “懒汉”模式
+ *
+ * 可以避免初始化对象比较耗时的问题
+ *
+ */
+
 public class ChocolateBoiler {
     private boolean empty;
     private boolean boiled;
