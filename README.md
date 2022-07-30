@@ -16,6 +16,7 @@ OpenJDK 64-Bit Server VM (build 11.0.16+8, mixed mode)
 - 封装变化
 - 多用组合，少用继承
 - 针对接口编程
+- 要依赖抽象不要依赖具体类 -- "依赖倒置原则"
 
 ### Reference
 

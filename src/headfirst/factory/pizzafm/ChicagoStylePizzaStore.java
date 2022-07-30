@@ -1,6 +1,6 @@
 package headfirst.factory.pizzafm;
 
-public class ChicagoPizzaStore extends PizzaStore {
+public class ChicagoStylePizzaStore extends PizzaStore {
     @Override
     public Pizza createPizza(String type) {
         Pizza pizza = null;
